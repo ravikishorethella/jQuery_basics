@@ -37,4 +37,29 @@
 //    alert("clicked");
 //});
 
+////jQuery Effects
+//$('button').on("click",function(){
+//    $('div').fadeOut();
+//});
+//or 
+//$('button').on("click",function(){
+//    $('div').fadeOut(1000,function(){
+//        alert("you clicked the button");
+//    });
+//
+//similarly we have fadeIn, fadeToggle
+//
+//$('button').on("click",function(){
+//    $('div').slideDown();
+//});
+//or 
+//$('button').on("click",function(){
+//    $('div').slideDown(1000,function(){
+//        alert("you clicked the button");
+//    });
+//
+//similarly we have slideUp, slideToggle
+});
+
+
 
