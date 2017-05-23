@@ -18,3 +18,23 @@
 //    alert("key input press!");    
 //});
 
+// and also we can do in other way
+// $("input").keypress(function(event){
+//    if(event.which === 13){
+//        alert("you hit enter");  
+//    }  
+//});
+// 
+
+//// jquery On event
+//$('heading').on('click',function(){
+//    alert("clicked");
+//});
+//
+//or  
+//
+//$('input').on('keypress',function(){
+//    alert("clicked");
+//});
+
+
